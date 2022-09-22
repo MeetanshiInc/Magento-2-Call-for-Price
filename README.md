@@ -1,4 +1,4 @@
-# Magento 2 Custom Carrier Trackers
+# Magento 2 Call for Price
 
 ***[Magento 2 Call for Price](https://meetanshi.com/magento-2-call-for-price.html)*** by Meetanshi enables hiding the product price and replacing the "Add to Cart" with "Call for Price" button to encourage users to contact for the price details.
 
