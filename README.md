@@ -45,7 +45,7 @@ Encourage customer engagement and more conversions with fewer cart abandonment u
 
 * Customers have to agree with the policy to comply with EU’s GDPR.
 
-For more information, visit [https://meetanshi.com/magento-2-call-for-price.html](https://meetanshi.com/magento-2-call-for-price.html)
+For more information, visit ***[https://meetanshi.com/magento-2-call-for-price.html](https://meetanshi.com/magento-2-call-for-price.html)***
 
 
 
